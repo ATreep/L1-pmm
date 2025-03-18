@@ -1,6 +1,6 @@
 # L1 pmm：实现 kalloc/kfree
 
-> 实验来自南京大学蒋炎炎的操作系统课实验 L1。实验手册：https://jyywiki.cn/OS/2024/labs/L1.md https://jyywiki.cn/OS/2023/labs/L1.html
+> 实验来自南京大学蒋炎岩的操作系统课实验 L1。实验手册：https://jyywiki.cn/OS/2024/labs/L1.md https://jyywiki.cn/OS/2023/labs/L1.html
 
 因为没有办法使用OJ评测，无法确定此实验代码是否满足 Hard test 的要求。
 
